@@ -1,0 +1,22 @@
+{
+  "name": "jspaillier",
+  "version": "0.1.0",
+  "description": "The Paillier Crypto System",
+  "main": "paillier.js",
+  "dependencies": {
+    "jsbn": "1.1.0"
+  },
+  "contributors": [
+    {
+      "name": "Maarten H Everts",
+      "email": "maarten@nn8.nl",
+      "url": "https://github.com/mhe/jspaillier"
+    },
+    {
+      "name": "Andreas Bogner",
+      "email": "abogner@ethz.ch",
+      "url": "https://github.com/UnSciPreneur/"
+    }
+  ],
+  "license": "MIT"
+}
