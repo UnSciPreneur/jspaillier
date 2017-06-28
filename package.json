@@ -10,7 +10,7 @@
     {
       "name": "Maarten H Everts",
       "email": "maarten@nn8.nl",
-      "url": "https://github.com/mhe/jspaillier"
+      "url": "https://github.com/mhe/"
     },
     {
       "name": "Andreas Bogner",
@@ -18,5 +18,9 @@
       "url": "https://github.com/UnSciPreneur/"
     }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhe/jspaillier.git"
+  }
 }
