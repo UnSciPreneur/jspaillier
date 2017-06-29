@@ -1,6 +1,6 @@
 {
   "name": "jspaillier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Paillier Crypto System",
   "main": "paillier.js",
   "dependencies": {
